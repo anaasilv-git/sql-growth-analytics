@@ -1,0 +1,7 @@
+session_id,customer_id,started_at,channel
+1001,1,2024-01-20 12:00:00,Instagram Ads
+1002,1,2024-02-10 19:30:00,Direct
+1003,2,2024-01-22 18:20:00,Google Ads
+1004,3,2024-01-25 14:10:00,Organic
+1005,5,2024-03-29 09:00:00,Email
+1006,6,2024-03-30 15:45:00,Remarketing
