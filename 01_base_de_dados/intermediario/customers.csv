@@ -1,0 +1,7 @@
+customer_id,name,email,created_at,city
+1,Ana,ana@email.com,2024-01-02,Cuiaba
+2,Pedro,pedro@email.com,2024-01-05,Cuiaba
+3,Marina,marina@email.com,2024-01-10,Varzea Grande
+4,Joao,joao@email.com,2024-01-11,Cuiaba
+5,Beatriz,bea@email.com,2024-02-01,Chapada
+6,Camila,camila@email.com,2024-02-15,Cuiaba
