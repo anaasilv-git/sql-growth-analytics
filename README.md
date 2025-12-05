@@ -79,3 +79,6 @@ Este repositório é meu laboratório pessoal para:
 
 Se quiser explorar, adaptar ou sugerir melhorias — fique à vontade!  
 📫 *Em breve adicionarei exemplos, bases e exercícios.*  
+
+📘 **Read this documentation in English:**  
+➡️ [README_en.md](README_en.md)
