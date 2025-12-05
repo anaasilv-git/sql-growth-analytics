@@ -1,3 +1,13 @@
+<p align="center">
+  <b>🌍 Project Documentation</b>
+</p>
+
+<p align="center">
+  🇧🇷 <a href="./README.md">Português</a> &nbsp;|&nbsp; 
+  🇺🇸 <a href="./README_en.md">English</a>
+</p>
+
+
 # SQL Growth Analytics
 
 Repositório dedicado a estudos, simulações e práticas de SQL aplicadas a **CRM, growth, comportamento do cliente e decisões orientadas a dados**.
